@@ -3,7 +3,7 @@
 
 #### **By [Dennis Yiaile](https://github.com/Dennis-tec)**
 
-#### Live url:https://dennis-tec.github.io/dennis-shop/
+#### Live url:https://dennis-tec.github.io/dennis-studio/
 
 ### Description
 This web application is an introductory to Dennis Studio web page. Dennis Studio website guides and direct anyone who want to contact us on anything related to software designs, development and product management. The Web page introduces and increase clients awareness to the services we offer, how they can reach us through social media, and our studio location.
@@ -11,8 +11,8 @@ This web application is an introductory to Dennis Studio web page. Dennis Studio
 ### Set up/Installation requirements
 * Fast Internet.
 * Browser( Google Chrome, Microsoft Edge, Opera Mini, Safari, and Firefox are recommended)
-* Access the website via link https://dennis-tec.github.io/dennis-shop/
-* Git clone via https://dennis-tec.github.io/dennis-shop/
+* Access the website via link:https://dennis-tec.github.io/dennis-studio/
+* Git clone via https://github.com/Dennis-tec/dennis-studio.git
 
 ### Known Bugs
 There are no known bugs related to this project.
