@@ -1,3 +1,6 @@
+body{
+  overflow-x: hidden;
+}
 .heading{
   background-image: url(../images/h_img.jpg);
   text-align: center;
